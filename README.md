@@ -15,17 +15,28 @@ This tool helps users quickly understand long and complex texts such as articles
 
 ---
 
-## ## Examples
+## Examples
 
-### [Text Summarization Example](./example/Text_Summarization_Example.md)
+### 📖 Doc
 
-<img src="./img/img1.png" alt="img" width="500">
+[Text Summarization Example](./example/Text_Summarization_Example.md)
 
-<img src="./img/img2.png" alt="img" width="500">
+### 🖼️ Screenshots
 
-<img src="./img/img3.png" alt="img" width="500">
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img1.png" alt="img"></td>
+            <td><img src="./img/img2.png" alt="img"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img3.png" alt="img"></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
-### Videorecording
+### 🎥 Videorecording
 
 <video width="640" height="360" src="https://github.com/user-attachments/assets/58c76eb3-b5fe-42a2-9839-b85946f385c4" controls preload>
     Your browser does not support the video tag.
