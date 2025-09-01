@@ -15,9 +15,9 @@ This tool helps users quickly understand long and complex texts such as articles
 
 ---
 
-### [Text Summarization Example](./example/Text_Summarization_Example.md)
+## ## Examples
 
----
+### [Text Summarization Example](./example/Text_Summarization_Example.md)
 
 <img src="./img/img1.png" alt="img" width="500">
 
