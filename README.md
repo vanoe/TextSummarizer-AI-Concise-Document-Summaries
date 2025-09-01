@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Short description
+## ⚙️ Short description
 
 This tool helps users quickly understand long and complex texts such as articles, reports, academic papers, and documents. Using **advanced AI**, it generates clear and concise summaries that capture the most important points.  
 **Target users:** Professionals 📊 | Students 🎓 | Researchers 🧪
