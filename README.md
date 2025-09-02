@@ -2,16 +2,16 @@
 
 ---
 
+## 🗂 Scheme
+
+<img src="./img/img4.png" alt="Scheme">
+
+---
+
 ## ⚙️ Short description
 
 This tool helps users quickly understand long and complex texts such as articles, reports, academic papers, and documents. Using **advanced AI**, it generates clear and concise summaries that capture the most important points.  
 **Target users:** Professionals 📊 | Students 🎓 | Researchers 🧪
-
----
-
-## 🗂 Scheme
-
-<img src="./img/img4.png" alt="Scheme">
 
 ---
 
@@ -21,7 +21,7 @@ This tool helps users quickly understand long and complex texts such as articles
 
 [Text Summarization Example](./example/Text_Summarization_Example.md)
 
-### 🖼️ Screenshots
+### 🖼️ 
 
 <table>
     <tbody>
