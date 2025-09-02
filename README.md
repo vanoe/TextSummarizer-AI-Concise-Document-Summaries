@@ -2,16 +2,23 @@
 
 ---
 
+## ⚙️ Short description
+
+This tool helps users quickly understand long and complex texts such as articles, reports, academic papers, and documents. Using **advanced AI**, it generates clear and concise summaries that capture the most important points.  
+**Target users:** Professionals 📊 | Students 🎓 | Researchers 🧪
+
+---
+
 ## 🗂 Scheme
 
 <img src="./img/img4.png" alt="Scheme">
 
 ---
 
-## ⚙️ Short description
-
-This tool helps users quickly understand long and complex texts such as articles, reports, academic papers, and documents. Using **advanced AI**, it generates clear and concise summaries that capture the most important points.  
-**Target users:** Professionals 📊 | Students 🎓 | Researchers 🧪
+## ⚙️ Technical Description
+- **Extractive summarization:** BERT identifies key sentences.
+- **Abstractive summarization:** GPT-2 rephrases content concisely.
+- **Optimization:** Attention mechanisms and hyperparameter tuning for better performance.
 
 ---
 
@@ -20,8 +27,6 @@ This tool helps users quickly understand long and complex texts such as articles
 ### 📖 Doc
 
 [Text Summarization Example](./example/Text_Summarization_Example.md)
-
-### 🖼️ 
 
 <table>
     <tbody>
@@ -41,13 +46,6 @@ This tool helps users quickly understand long and complex texts such as articles
 <video width="640" height="360" src="https://github.com/user-attachments/assets/58c76eb3-b5fe-42a2-9839-b85946f385c4" controls preload>
     Your browser does not support the video tag.
 </video>
-
----
-
-## ⚙️ Technical Description
-- **Extractive summarization:** BERT identifies key sentences.
-- **Abstractive summarization:** GPT-2 rephrases content concisely.
-- **Optimization:** Attention mechanisms and hyperparameter tuning for better performance.
 
 ---
 
